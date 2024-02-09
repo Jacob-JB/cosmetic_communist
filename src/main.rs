@@ -192,7 +192,8 @@ async fn needsomething(
 
 
     if ctx.data().database.who_needs(&cosmetic).contains(&ctx.author().id.to_string()) {
-        status_reply.edit(ctx, CreateReply::default().content("you already need that cosmetic")).await.unwrap();
+        status_reply.edit(ctx, CreateReply::default().content(format!("you already need **{}**", cosmetic))).await.unwrap();
+        return Ok(())
     }
 
 
@@ -274,7 +275,8 @@ const HELP_MESSAGE: &str = "This is a discord bot for sharing cosmetics with the
 You can tell it what cosmetics you need with `/needsomething`, and when you or someone finds a duplicate they can use the `/foundsomething` command to ping everyone that needs it.
 Use `/whatdoineed` to see what the bot thinks you need and `/dontneed` to tell it what you've unlocked.
 
-The bot keeps a shared database across all the servers it's in, but be aware that this means that users you don't share a server with might see your user.";
+The bot keeps a shared database across all the servers it's in, but be aware that this means that users you don't share a server with might see your user.
+use `/forgetme` to remove your user from the databse.";
 
 #[poise::command(slash_command)]
 async fn help(
@@ -762,12 +764,7 @@ fn filter_allowed_characters(string: String) -> String {
 // filter's characters to create a valid path
 fn create_path(cosmetic: &str) -> String {
     let valid_name = String::from_iter(cosmetic.chars().filter(|&c| {
-        !(
-            c == '\"'
-            || c == '\''
-            || c == '('
-            || c == ')'
-        )
+        c.is_ascii_alphanumeric() || c == ' '
     }).map(|c| {
         match c {
             ' ' => '_',
