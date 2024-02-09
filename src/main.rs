@@ -165,7 +165,7 @@ async fn foundsomething(
 
     // update the status and ping the user that they have claimed it
     claim_reply.delete(ctx).await.unwrap();
-    status_reply.edit(ctx, CreateReply::default().content(format!("<@{}> found **{}** which was been claimed by <@{}>\n\nMake sure to use the `/dontneed` command later so you don't get pinged again", author_id, cosmetic, claimed_user.id))).await.unwrap();
+    status_reply.edit(ctx, CreateReply::default().content(format!("<@{}> found **{}** which has been claimed by <@{}>\n\nMake sure to use the `/dontneed` command later so you don't get pinged again", author_id, cosmetic, claimed_user.id))).await.unwrap();
 
 
     Ok(())
@@ -464,7 +464,7 @@ async fn cosmetic_select(
         ]));
 
         CreateReply::default()
-        .content(format!("Select cosmetic\nPage **{}**", n + 1))
+        .content(format!("Select cosmetic\nPage **{}**/{}", n + 1, pages.len()))
         .ephemeral(true)
         .components(components)
     };
