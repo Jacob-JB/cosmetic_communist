@@ -1,0 +1,157 @@
+Admiral Hat
+Adventurer Hat
+Airline Captain's Hat
+Banded Straw Hat
+Blue Baseball Cap
+Green Baseball Cap
+White Baseball Cap
+Gray Beanie
+Black Beanie
+Navy Beanie
+Olive Beanie
+Tan Beanie
+White Beanie
+Navy Artist Beret
+Black Artist Beret
+Red Artist Beret
+General's Beret
+Black Boonie Hat
+Glacier Boonie Hat
+Evergreen Boonie Hat
+Olive Boonie Hat
+Bowler Hat
+Black Brimmed Hat
+Brown Brimmed Hat
+Navy Brimmed Hat
+Blue Bucket Hat
+Green Bucket Hat
+Red Bucket Hat
+Yellow Bucket Hat
+Chef Hat
+Clown Wig
+Green Colander Hat
+Orange Colander Hat
+White Colander Hat
+Brown Gunfighter Cowboy Hat
+Black Cattleman Cowboy Hat
+Brown Cattleman Cowboy Hat
+Gray Cattleman Cowboy Hat
+Black Gunfighter Cowboy Hat
+Gray Gunfighter Cowboy Hat
+White Gunfighter Cowboy Hat
+Frost King Crown
+Frost Queen Crown
+Gray Cyclist Helmet
+Black Cyclist Helmet
+White Cyclist Helmet
+Desert Military Cap
+Black Du-rag
+Navy Du-rag
+Olive Du-rag
+Red Du-rag
+White Du-rag
+Elf Hat
+Court Jester Hat
+Fedora
+Firefighter Helmet
+Tan Flat Cap
+Gray Flat Cap
+Navy Flat Cap
+Fur Hat
+Blood Ghillie Suit Hood
+Dry Grass Ghillie Suit Hood
+Grass Ghillie Suit Hood
+Snow Ghillie Suit Hood
+Blue Hard Hat
+Orange Hard Hat
+Red Hard Hat
+White Hard Hat
+Yellow Hard Hat
+Orange Hazmat Suit Helmet
+Black Hazmat Suit Helmet
+Green Hazmat Suit Helmet
+White Hazmat Suit Helmet
+Yellow Hazmat Suit Helmet
+Highway Patrol Hat
+Black Desert Militia Hood
+Brown Desert Militia Hood
+Green Desert Militia Hood
+Pink Desert Militia Hood
+Red Desert Militia Hood
+White Desert Militia Hood
+Hustler Hat
+Rich Brown Leather Cap
+Black Leather Cap
+Dusty Brown Leather Cap
+German M35 Helmet
+Black Steel Barbuta Helmet
+Gray Steel Barbuta Helmet
+Camo Military Boonie Hat
+Desert Camo Military Boonie Hat
+Desert Chip Camo Military Boonie Hat
+Snow Marpat Military Boonie Hat
+Camo Military Cap
+Desert Chip Camo Military Cap
+Military Helicopter Pilot Helmet
+Desert Camo Military Helmet
+Desert Chip Camo Military Helmet
+Camo Military Helmet
+Snow Marpat Camo Military Helmet
+Milkman Cap
+White Mining Helmet
+Yellow Mining Helmet
+Motocross Helmet
+Black Motorcycle Helmet
+Red Motorcycle Helmet
+Teal Motorcycle Helmet
+#1 Soda Hat
+Paper Hat
+Patched Hat
+Black Patched Hat
+White Patched Hat
+Pirate Hat
+Pirate Bicorn
+Pith Helmet
+Black Plague Doctor Hat
+White Plague Doctor Hat
+Police Officer Hat
+Cooking Pot Hat (Black)
+Cooking Pot Hat (White)
+Cooking Pot Hat (Orange)
+Propeller Hat
+Charred Jack-O'-Lantern
+Orange Jack-O'-Lantern
+Orange Glowing Jack-O'-Lantern
+Ghostly Jack-O'-Lantern
+Ranger Hat
+Rasta Hat
+Red Beret
+"Rogue" Helicopter Pilot Helmet
+Green Safari Hat
+Brown Safari Hat
+Tan Safari Hat
+Sailor Cap
+Santa's Hat
+"Abomination" Skull
+Broken Goat Skull
+Goat Skull
+Black Sombrero
+Tan Sombrero
+White Sombrero
+SSh-68 Combat Helmet
+Straw Hat
+Top Hat
+Red Banded Top Hat
+Tricorn Hat
+Tundra Ballistic Helmet
+Umberella Hat
+Black Soviet Ushanka
+White Soviet Ushanka
+Black Winter Ushanka
+Brown Winter Ushanka
+White Winter Ushanka
+Vaudeville Hat
+Brodie Helmet
+WWII Ranger Helmet
+WWII US Infantry Helmet
+Tundra Infantry Helmet

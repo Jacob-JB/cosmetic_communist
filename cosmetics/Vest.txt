@@ -1,0 +1,76 @@
+Construction Vest (Green)
+Construction Vest (Orange)
+Construction Vest (Yellow)
+Black Desert Militia Plate Carrier
+Brown Desert Militia Plate Carrier
+Gray Desert Militia Plate Carrier
+Grime Desert Militia Plate Carrier
+Gray Desert Militia Tank Carrier
+Grime Desert Militia Tank Carrier
+White Desert Militia Tank Carrier
+White Desert Militia Plate Carrier
+Glacier Elf Enforcer Webbing
+Festive Elf Enforcer Webbing
+Navy Fanatic Webbing
+German Infantry Webbing
+Black Leather Chest Holster
+Brown Leather Chest Holster
+Dusty Brown Leather Chest Holster
+Tan Leather Chest Holster
+White Leather Chest Holster
+Hunting Vest (Brown)
+Hunting Vest (Gray)
+Hunting Vest (Green)
+Hunting Vest (Tan)
+Black Steel European Breastplate
+Gray Steel European Breastplate
+Black Military Ammo Vest
+Jet Black Military Ammo Vest
+Green Military Ammo Vest
+Olive Military Ammo Vest
+Tan Military Ammo Vest
+Jet Black Military Ammo Webbing
+Gray Military Ammo Webbing
+Green Military Ammo Webbing
+Tan Military Ammo Webbing
+White Military Ammo Webbing
+White Military Ammo Vest
+Military Helicopter Pilot Harness
+Black Military Transport Pilot Harness
+Green Military Transport Pilot Harness
+Brown Militia Bandolier
+Gray Militia Bandolier
+Green Militia Bandolier
+Flint Militia Vest
+Green Militia Vest
+Brown Militia Vest
+Militia Officer Webbing
+Pirate Vest
+Blue Quilted Vest
+Navy Quilted Vest
+Orange Quilted Vest
+Pink Quilted Vest
+Red Quilted Vest
+White Quilted Vest
+"Rogue" Helicopter Pilot Harness
+Gray Safari Vest
+Green Safari Vest
+White Safari Vest
+Tan Safari Vest
+Tundra Ammo Webbing
+Tundra Cryogenic Vest
+Green Soviet Ammo Webbing
+Grime Soviet Ammo Webbing
+Olive Soviet Ammo Webbing
+White Soviet Ammo Webbing
+Black Tactical Vest
+Jet Black Tactical Vest
+Green Tactical Vest
+Tan Tactical Vest
+Rusty Shackled Chain Harness
+Gray Shackled Chain Harness
+Brown Vintage Webbing
+Gray Vintage Webbing
+Maroon Vintage Webbing
+WWII Ranger Webbing
+WWII US Infantry Webbing

@@ -1,0 +1,183 @@
+Admiral Pants
+Airline Captain Pants
+Police Officer Pants
+Black Urban Camo Pants
+Gray Urban Camo Pants
+Navy Urban Camo Pants
+Olive Urban Camo Pants
+"Snake's" Urban Camo Pants
+Maroon Stripe Urban Camo Pants
+Tan Urban Urban Camo Pants
+Black Cargo Pants
+Gray Cargo Pants
+Olive Cargo Pants
+Tan Cargo Pants
+White Cargo Pants
+Blue Cargo Shorts
+Cargo Shorts
+Gray Cargo Shorts
+Olive Cargo Shorts
+Tan Cargo Shorts
+Chef Pants
+Clown Pants
+Colonial Pants
+Demon Hunter Duster
+Cactus Uniform Pants
+Black Bandaged Desert Militia Pants
+Brown Bandaged Desert Militia Pants
+Green Bandaged Desert Militia Pants
+Black Desert Militia Cloak
+Green Desert Militia Cloak
+Brown Patterned Desert Militia Cloak
+Red Desert Militia Cloak
+Black Desert Militia Duster
+Green Desert Militia Duster
+Red Desert Militia Duster
+Rich Brown Desert Militia Duster
+Desert Camo Pants
+Doctor Pants
+Glacier Elf Camo Pants
+Evergreen Elf Camo Pants
+Elf Pants
+Firefighter Pants
+Black Flared Suit Pants
+Pink Flared Suit Pants
+White Flared Suit Pants
+Blue Elegant Gambeson Pants
+Green Elegant Gambeson Pants
+Purple Elegant Gambeson Pants
+Red Elegant Gambeson Pants
+Black Studded Gambeson Pants
+Brown Studded Gambeson Pants
+Purple Studded Gambeson Pants
+Red Studded Gambeson Pants
+German Infantry Pants
+Blood Ghillie Suit Pants
+Dry Grass Ghillie Suit Pants
+Grass Ghillie Suit Pants
+Snow Ghillie Suit Pants
+Vibrant Grass Skirt
+Dried Grass Skirt
+Security Guard Pants
+Orange Hazmat Suit Bottom
+Black Hazmat Suit Bottom
+Olive Hazmat Suit Bottom
+White Hazmat Suit Bottom
+Yellow Hazmat Suit Bottom
+Black Highwaist Skirt
+Red Highwaist Skirt
+Blue Bell Bottom Pants
+Gray Bell Bottom Pants
+Orange Bell Bottom Pants
+Pink Bell Bottom Pants
+Blue Highwaist Pants
+Green Highwaist Cargo Pants
+Pink Highwaist Cargo Pants
+Purple Highwaist Cargo Pants
+Dark Blue Highwaist Pants
+Light Blue Highwaist Pants
+Hustler Pants
+Black Insulated Snow Pants
+Blue Insulated Snow Pants
+Green Insulated Snow Pants
+Orange Insulated Snow Pants
+White Insulated Snow Pants
+Yellow Insulated Snow Pants
+Black Jeans
+Blue Jeans
+Orange Jeans
+Dark Blue Jeans
+Light Brown Jeans
+Sienna Jeans
+Reddish Brown Jeans
+Judge Bottom
+Light Khakie Pants
+Dark Khaki Pants
+Lifeguard Shorts
+Long Blue Skirt
+Long Green Skirt
+Long Gray Skirt
+Long Red Skirt
+Black Pinstripe Pants
+Brown Pinstripe Pants
+Magenta Pinstripe Pants
+Red Pinstripe Pants
+Yellow Pinstripe Pants
+Blue Mechanic Pants
+Brown Mechanic Pants
+Green Mechanic Pants
+Grey Mechanic Pants
+Blue Stained Mechanic Pants
+Brown Stained Mechanic Pants
+Green Stained Mechanic Pants
+Snow Marpat Camo Pants
+Tundra Camo Pants
+Desert Chip Camo Pants
+Military Camo Pants
+Motocross Pants
+Overalls
+Pirate Pants
+Black Plague Doctor Bottom
+White Plague Doctor Bottom
+Primitive Animal Skin Bottom
+Prisoner Pants
+Green Patterned Robe Bottom
+Pink Patterned Robe Bottom
+Red Patterned Robe Bottom
+White Patterned Robe Bottom
+Tan Burlap Robe Bottom
+Black Servant Robe Bottom
+Red Servant Robe Bottom
+Tan Servant Robe Bottom
+"Rogue" Flight Suit Bottoms
+Santa's Pants
+Dark Blue Scrubs Pants
+Light Blue Scrubs Pants
+Teal Scrubs Pants
+Sheriff Pants
+Short Black Skirt
+Short Blue Skirt
+Short Orange Skirt
+Short Pink Skirt
+Women's Slacks
+Berezka Gold Soviet Camo Pants
+Berezka Gray Soviet Camo Pants
+Berezka Sumrak Soviet Camo Pants
+Berezka White Soviet Camo Pants
+Black Business Slacks
+Blue Business Slacks
+Navy Business Slacks
+Tan Business Slacks
+White Business Slacks
+Black Patterned Slacks
+Brown Patterned Slacks
+Navy Patterned Slacks
+Tan Patterned Slacks
+Blue Summer Dress Bottom
+Green Summer Dress Bottom
+Orange Summer Dress Bottom
+Red Summer Dress Bottom
+Yellow Summer Dress Bottom
+Tattered Rags Bottom
+Tattered Leathers Bottom
+Turquoise Track Pants
+Teal Track Pants
+White Track Pants
+Black Track Pants
+Blue Track Pants
+Black Track Shorts
+Blue Track Shorts
+Green Track Shorts
+Red Track Shorts
+Teal Striped Pants
+Turquoise Striped Pants
+White Striped Pants
+Black Striped Pants
+"Jerimia's" Trapper Pants
+USAF Flight Suit Bottoms
+Navy USAF Flight Suit Bottoms
+Tan USAF Flight Suit Bottoms
+WWII Ranger Pants
+Brown Waders
+Gray Waders
+Work Apron
