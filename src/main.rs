@@ -83,6 +83,7 @@ async fn foundsomething(
 
     // get the cosmetic
     let Some(cosmetic) = cosmetic_select(ctx).await else {
+        status_reply.edit(ctx, CreateReply::default().content(format!("<@{}> found a cosmetic but cancelled", author_id))).await.unwrap();
         return Ok(());
     };
 
@@ -187,6 +188,7 @@ async fn needsomething(
 
     // get the cosmetic
     let Some(cosmetic) = cosmetic_select(ctx).await else {
+        status_reply.edit(ctx, CreateReply::default().content("Cancelled")).await.unwrap();
         return Ok(());
     };
 
@@ -243,13 +245,14 @@ async fn dontneed(
 
     let status_reply = ctx.send(
         CreateReply::default()
-            .content(format!("Select the cosmetic you don't need"))
+            .content("Select the cosmetic you don't need")
             .ephemeral(true)
     ).await.unwrap();
 
 
     // get the cosmetic
     let Some(cosmetic) = cosmetic_select(ctx).await else {
+        status_reply.edit(ctx, CreateReply::default().content("Cancelled")).await.unwrap();
         return Ok(());
     };
 
@@ -384,6 +387,9 @@ async fn cosmetic_select(
                     }
                 )
             ),
+            CreateActionRow::Buttons(vec![
+                CreateButton::new("cancel").label("Cancel").style(ButtonStyle::Danger),
+            ]),
         ])
     ).await.unwrap();
 
@@ -400,9 +406,16 @@ async fn cosmetic_select(
         },
     };
 
-    let ComponentInteractionDataKind::StringSelect { values } = &interaction.data.kind else {
-        println!("malformed component response. expected a `StringSelect`, got {:?}", interaction.data.kind);
-        return None;
+    let values = match &interaction.data.kind {
+        ComponentInteractionDataKind::StringSelect { values } => values,
+        ComponentInteractionDataKind::Button => {
+            category_reply.delete(ctx).await.unwrap();
+            return None;
+        },
+        _ => {
+            println!("malformed component response. expected a `StringSelect` or `Button`, got {:?}", interaction.data.kind);
+            return None;
+        },
     };
 
     let Some(id) = values.first() else {
@@ -461,6 +474,7 @@ async fn cosmetic_select(
         components.push(CreateActionRow::Buttons(vec![
             CreateButton::new("back").label("< Page"),
             CreateButton::new("next").label("Page >"),
+            CreateButton::new("cancel").label("Cancel").style(ButtonStyle::Danger),
         ]));
 
         CreateReply::default()
@@ -520,6 +534,10 @@ async fn cosmetic_select(
 
                         cosmetic_reply.edit(ctx, create_page(current_page)).await.unwrap();
                     },
+                    "cancel" => {
+                        cosmetic_reply.delete(ctx).await.unwrap();
+                        return None;
+                    }
                     _ => {
                         println!("malformed component response");
                         return None;
