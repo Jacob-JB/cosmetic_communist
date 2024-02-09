@@ -677,7 +677,7 @@ impl Database {
     }
 
     pub fn who_needs(&self, cosmetic: &str) -> Vec<String> {
-        if let Ok(users) = std::fs::read_to_string(format!("database/{}.txt", cosmetic)) {
+        if let Ok(users) = std::fs::read_to_string(create_path(cosmetic)) {
 
             let users = filter_allowed_characters(users);
 
@@ -695,7 +695,7 @@ impl Database {
         let mut file = std::fs::OpenOptions::new()
             .append(true)
             .create(true)
-            .open(format!("database/{}.txt", cosmetic))
+            .open(create_path(cosmetic))
             .expect(&format!("could not open file for cosmetic {}", cosmetic));
 
         use std::io::Write;
@@ -717,7 +717,7 @@ impl Database {
 
     pub fn remove(&self, cosmetic: &str, user_id: &str) {
 
-        let path = format!("database/{}.txt", cosmetic);
+        let path = create_path(cosmetic);
 
         let Ok(users) = std::fs::read_to_string(&path) else {
             return;
@@ -757,4 +757,23 @@ fn filter_allowed_characters(string: String) -> String {
             || c == ')'
         }
     ))
+}
+
+// filter's characters to create a valid path
+fn create_path(cosmetic: &str) -> String {
+    let valid_name = String::from_iter(cosmetic.chars().filter(|&c| {
+        !(
+            c == '\"'
+            || c == '\''
+            || c == '('
+            || c == ')'
+        )
+    }).map(|c| {
+        match c {
+            ' ' => '_',
+            _ => c,
+        }
+    }));
+
+    format!("database/{}.txt", valid_name)
 }
