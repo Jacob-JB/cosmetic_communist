@@ -115,6 +115,7 @@ Tundra Camo Pants
 Desert Chip Camo Pants
 Military Camo Pants
 Motocross Pants
+Theater Attendant Pants
 Overalls
 Pirate Pants
 Black Plague Doctor Bottom
@@ -177,6 +178,7 @@ Black Striped Pants
 USAF Flight Suit Bottoms
 Navy USAF Flight Suit Bottoms
 Tan USAF Flight Suit Bottoms
+Heart Undergarments
 WWII Ranger Pants
 Brown Waders
 Gray Waders

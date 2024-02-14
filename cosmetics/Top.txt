@@ -115,6 +115,7 @@ Red Longsleeve
 Blue Print Button-up Shirt
 Purple Print Button-up Shirt
 Yellow Print Button-up Shirt
+Pink Loose Button-up Shirt
 White Wavy Button-up Shirt
 Yellow Wavy Button-up Shirt
 White Loose Button-up Shirt
@@ -134,6 +135,7 @@ Tundra Camo Shirt
 Desert Chip Camo Shirt
 Military Camo Shirt
 Motocross Shirt
+Theater Attendant Top
 Pirate Shirt
 Black Plague Doctor Shirt
 White Plague Doctor Shirt
